@@ -1,4 +1,4 @@
-# Prisoner's-Dilemma
+# Prisoner's Dilemma
 Prisoner's Dilemma app for SwiftUI, you play against an AI.
 
 This is a short app I created to learn SwiftUI. It is a classic take on the [Prisoner's Dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma).
